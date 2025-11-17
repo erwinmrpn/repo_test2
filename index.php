@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello Erwin dengan PHP dan CSS</title>
+    <title>Hello JohnErwin dengan PHP dan CSS</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -11,7 +11,7 @@
     <div class="container">
         <?php
             // Cetak pesan utama
-            $pesan = "Hello Erwin!";
+            $pesan = "Hello JohnErwin!";
             echo "<h1>" . $pesan . "</h1>";
         ?>
         <p class="subtitle">Ini adalah halaman PHP yang sudah diberi sedikit gaya (style).</p>
